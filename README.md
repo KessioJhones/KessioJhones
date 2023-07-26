@@ -1,7 +1,7 @@
 ### Olá! meu nome é Kessio Jhones 😁
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kkessiojhones@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kessio-jhones-inacio-de-freitas-36528714a)
+[![Twitch](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KessioJhones/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](67984098077)
 
 ![KessioJhones GitHub stats](https://github-readme-stats.vercel.app/api?username=KessioJhones&show_icons=true&theme=tokyonight)
